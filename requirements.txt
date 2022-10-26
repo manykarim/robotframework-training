@@ -1,3 +1,4 @@
+robotframework==5.*
 robotframework-browser
 robotframework-requests
 pyotp
