@@ -17,6 +17,5 @@ vscode:
   extensions:
     - ms-python.python
     - d-biehl.robotcode
-    - eamodio.gitlens
     - dbaeumer.vscode-eslint
     - ritwickdey.LiveServer
