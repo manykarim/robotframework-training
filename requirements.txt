@@ -1,3 +1,5 @@
 robotframework-browser
+selenium==4.9.1
+robotframework-seleniumlibrary
 robotframework-requests
 pyotp

@@ -4,7 +4,7 @@ tasks:
   - init: |
       echo 'init script' # runs during prebuild
       source .venv/bin/activate
-      pip install robotframework
+      pip install robotframework==6.0.2
       pip install -r requirements.txt
       rfbrowser init
     command: |
