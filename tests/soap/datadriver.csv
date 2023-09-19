@@ -1,0 +1,4 @@
+*** Test Case ***;${request_file};${response_file}
+;multiply_001.xml;multiply_response_001.xml
+;multiply_002.xml;multiply_response_002.xml
+;multiply_003.xml;multiply_response_003.xml
