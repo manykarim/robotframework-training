@@ -5,3 +5,4 @@ robotframework-requests
 robotframework-debug
 pyotp
 robotframework-datadriver
+robotframework-soaplibrary
